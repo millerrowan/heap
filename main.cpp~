@@ -1,0 +1,32 @@
+#include <iostream>
+#include <cstring>
+
+/* heap creates a max heap data structure 
+   Author: Rowan Miller
+   2/22/24
+*/
+
+
+int main() {
+
+
+
+
+
+}
+
+//adds value to the heap - adds to the available spot in array or tree then check to see if parent is larger than it, if parent is, swap with parent
+void add() {
+  
+
+}
+
+void remove() {
+
+
+}
+
+void removeAll() {
+
+
+}
